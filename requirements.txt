@@ -1,0 +1,12 @@
+pdf2image 
+Pillow
+opencv-python
+tensorflow
+scikit-learn
+reportlab
+tqdm
+pytesseract
+spacy
+git+https://github.com/roy-ht/editdistance.git@v0.6.2
+contextualSpellCheck
+pypdf2
